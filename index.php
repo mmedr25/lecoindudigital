@@ -56,7 +56,7 @@
     </div>
     <?php do_action('ere_advanced_search_after_main_content'); ?>
      <div class="honoraires">
-        <button><a href="/honoraires.html"></a> CONSULTER NOTRE BARÈME D’HONORAIRES</button>
+        <a href="./honoraires.html">CONSULTER NOTRE BARÈME D’HONORAIRES</a>
      </div>
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////// -->
