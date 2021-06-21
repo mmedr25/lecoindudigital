@@ -28,7 +28,7 @@
 
         public function the_posts () {}
     }
-    
+
     $data = new lecoin();
 ?>
 
@@ -56,7 +56,7 @@
     </div>
     <?php do_action('ere_advanced_search_after_main_content'); ?>
      <div class="honoraires">
-        <button>CONSULTER NOTRE BARÈME D’HONORAIRES</button>
+        <button><a href="/honoraires.html"></a> CONSULTER NOTRE BARÈME D’HONORAIRES</button>
      </div>
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////// -->
